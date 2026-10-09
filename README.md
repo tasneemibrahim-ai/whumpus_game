@@ -185,7 +185,3 @@ It demonstrates **logical agents**, **knowledge representation**, and **proposit
 ## 👩‍💻 Author
 
 **Tasneem** — AI & Computer Science Enthusiast
-
----
-
-*Feel free to ⭐ this repo if you found it helpful!*
